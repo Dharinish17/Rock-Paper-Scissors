@@ -31,21 +31,6 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 
 ---
 
-## ✅ Future Enhancements
-
-- Add sound effects
-- Add animations or emojis for each move
-- Add difficulty levels or multiplayer mode
-
----
-
-## 📃 License
-
-This project is open source and free to use.  
-You’re welcome to modify and build upon it.
-
----
-
 ## 🙋‍♂️ Author
 
 Created by A.Dharinish  
